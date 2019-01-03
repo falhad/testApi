@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "پیتزا ایتالیایی",
+      "icon": "local_pizza",
+      "foods": [
+        {
+          "id": 1,
+          "name": "پیتزا استیک",
+          "content": "استیک گوشت، گوجه گیلاسی، قارچ، فلفل دلمه، زیتون، پنیر موزارلا، سس ناپولی، خمیر مخصوص ایتالیایی",
+          "price": 38000,
+          "thumb": "https://pngimage.net/wp-content/uploads/2018/06/pizza-kebab-png.png",
+          "image": "https://pngimage.net/wp-content/uploads/2018/06/pizza-kebab-png.png"
+        },
+        {
+          "id": 2,
+          "name": "پیتزا میت لاور",
+          "content": "گوشت فیله گوساله، پپرونی، استیک گوشت، پیاز، قارچ، فلفل دلمه،یتون، پنیر موزارلا، سس ناپولی، خمیر مخصوص ایتالیایی ",
+          "price": 42000,
+          "thumb": "https://pngimage.net/wp-content/uploads/2018/06/pizza-kebab-png.png",
+          "image": "https://pngimage.net/wp-content/uploads/2018/06/pizza-kebab-png.png"
+        }
+      ]
+    }
+  ]
+}
